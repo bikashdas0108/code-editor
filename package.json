@@ -15,6 +15,7 @@
     "react-dom": "^16.13.1",
     "react-scripts": "^5.0.1"
   },
+  "homepage": "https://bikashdas0108.github.io/online-code-editor",
   "scripts": {
     "start": "react-scripts start",
     "predeploy": "npm run build",
